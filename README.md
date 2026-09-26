@@ -4,6 +4,7 @@
 ## 💫 Sobre Mim
 - 🧑‍💻 **Foco em Back-End** | Atualmente no 2° Semestre de **Análise e Desenvolvimento de Sistemas no, Centro Universitário Leonardo da Vinci(Uniasselvi)**
 - 🌎 Localização | **Santa Cataria, Brasil**
+- ✨️ Aprendendo atualmente | **SOLID, Clean architeture**
 
 ## 🧠 Linguagens e Ferramentas
 <p align="center">
